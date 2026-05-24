@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Excel / LibreOffice temp files
+~$*.xlsx
+~$*.xls
+*.~lock.*
+.~lock.*
+
+# GitNexus generated index
+.gitnexus/
