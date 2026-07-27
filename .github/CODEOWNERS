@@ -1,0 +1,7 @@
+# CODEOWNERS — tendero-mypes (specs de producto y guías del contador, solo docs)
+#
+# Equipos (crear en la org furio-labs):
+#   @furio-labs/accounting  → Danilo (CPA) + Sandro — valida las guías contables
+#   @furio-labs/maintainers → Sandro
+
+*                       @furio-labs/maintainers @furio-labs/accounting
